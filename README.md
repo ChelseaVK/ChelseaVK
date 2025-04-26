@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChelseaVK
 - 👀 I’m interested in coding, creating, and learning.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and Bootstrap.
+- 🌱 I’m currently learning HTML, CSS, JavaScript. Next steps: Python and React.
 - 📫 How to reach me: message.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can legally marry you and I'm a twin!
